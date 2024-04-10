@@ -11,7 +11,7 @@ const Hero = () => {
       {/* <img src={profile_img} alt='' /> */}
      <img src= {modi} alt='' className='modi'/>
 
-      <h1><span>I'm Mahmoud Fahmi,</span> electrical engineer</h1>
+      <h1><span>I'm Mahmoud Fahmi,</span> Computer Engineer</h1>
       {/* <p>I am a frontend developer fromCalifornia ,USA with 10 years of experience.</p> */}
       <div className="hero-action">
       <div className="hero-connect"><AnchorLink  className='anchor-link' offset={50} href='#contact'>
